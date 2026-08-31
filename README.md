@@ -96,9 +96,9 @@ I'm still working on it and plan to keep adding more features and projects.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karan-panday&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=karan-panday&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-panday&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-panday&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 ---
@@ -115,12 +115,9 @@ I'm still working on it and plan to keep adding more features and projects.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karan-panday&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=karan-panday&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 ---
 
 ## 🐍 My Contribution Snake
