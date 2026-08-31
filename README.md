@@ -122,11 +122,9 @@ I'm still working on it and plan to keep adding more features and projects.
 
 ## 🐍 My Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/karan-panday/karan-panday/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karan-panday/karan-panday/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
