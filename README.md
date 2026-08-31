@@ -92,16 +92,6 @@ I'm still working on it and plan to keep adding more features and projects.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karan-panday&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan-panday&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
----
 
 ## 🔥 Contribution Streak
 
@@ -159,16 +149,6 @@ I'm still working on it and plan to keep adding more features and projects.
 </pre>
 
 ### `Learn. Build. Break. Fix. Improve. Repeat.`
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karan-panday&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
